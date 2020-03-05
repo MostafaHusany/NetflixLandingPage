@@ -1,3 +1,3 @@
-#Learning Git & GitHub
+#Build a Netflix Landing Page Clone with HTML, CSS & JS
 
-This project is for learning the use of git & gitHub.
+A Netflix landing page clone, was build using html, sass, & js
